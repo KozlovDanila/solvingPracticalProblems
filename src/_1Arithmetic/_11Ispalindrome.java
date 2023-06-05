@@ -1,3 +1,5 @@
+package _1Arithmetic;
+
 import java.util.stream.IntStream;
 
 public class _11Ispalindrome {

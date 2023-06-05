@@ -1,3 +1,5 @@
+package _1Arithmetic;
+
 public class _19Anagramm {
 
 	public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package _1Arithmetic;
+
 import java.util.stream.Collectors;
 
 public class _13RemoveSymbol {

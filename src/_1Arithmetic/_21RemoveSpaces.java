@@ -1,3 +1,5 @@
+package _1Arithmetic;
+
 public class _21RemoveSpaces {
 
 	public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package _1Arithmetic;
+
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 

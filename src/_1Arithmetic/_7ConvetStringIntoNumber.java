@@ -1,3 +1,5 @@
+package _1Arithmetic;
+
 public class _7ConvetStringIntoNumber {
 
 	public static void main(String[] args) {

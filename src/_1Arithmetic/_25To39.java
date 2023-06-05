@@ -1,3 +1,5 @@
+package _1Arithmetic;
+
 public class _25To39 {
 
 	public static void main(String[] args) {

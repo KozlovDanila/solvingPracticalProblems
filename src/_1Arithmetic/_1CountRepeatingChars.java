@@ -1,3 +1,5 @@
+package _1Arithmetic;
+
 public class _1CountRepeatingChars {
 
 	public static void main(String[] args) {

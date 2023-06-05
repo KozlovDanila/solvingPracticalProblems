@@ -1,3 +1,5 @@
+package _1Arithmetic;
+
 import java.util.Collections;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
